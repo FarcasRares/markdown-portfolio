@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+<br></br>
+**Hello, I'm a Student at Technical University of Cluj Napoca, at Electronics, Telecomunications and Information Technology.**
+<br></br>
+*Programming languages known : *
+* _Java_
+* _C++_
+* _C_
+* _HTML_
+
